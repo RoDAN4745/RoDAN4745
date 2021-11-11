@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RoDAN4745/ aditya
+- 👋 Hi, I’m @RoDAN/aditya
 - 👀 I’m interested in game devlopment
 - 🌱 I’m currently in high school
 - 💞️ I’m looking to collaborate on ...
