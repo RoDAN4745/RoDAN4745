@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RoDAN/aditya
-- 👀 I’m interested in game devlopment
-- 🌱 I’m currently in high school
+- 👋 Hi, I’m @RoDAN/Aditya
+- 👀 I’m interested in game development
+- 🌱 I’m currently in college
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me on discord RoDAN#5446 
 :)
